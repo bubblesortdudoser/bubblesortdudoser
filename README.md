@@ -4,11 +4,12 @@
 <a href = 'https://t.me/donqhomo'> <img width = '48px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/telegram-icon.png"/></a> 
 <a href = 'https://vk.com/bogomoloviv'> <img width = '48px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/vk-icon.png"/></a> 
 <a href = 'https://mail.google.com/mail/?view=cm&source=mailto&to=qhomop@gmail.com'> <img width = '48px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/gmail-icon.png"/></a> 
+
+[Resume of average python user:](https://docs.google.com/document/d/1hvXMOy-faORywFbC-LexXfW8WvGdirFfstURlDiD2BU/edit#heading=h.qetebnx38gvk)
+Average python user: →→
+<img width = '256px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/Chad.png"/>
 <br/>
 
-### [My Resume](https://docs.google.com/document/d/1hvXMOy-faORywFbC-LexXfW8WvGdirFfstURlDiD2BU/edit#heading=h.qetebnx38gvk)
-### Average python user:   ![image](https://user-images.githubusercontent.com/39852259/197069617-46f52347-c47c-4351-84d1-c7681ef30343.png)
-<img width = '256px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/Chad.png"/>
 <div>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
