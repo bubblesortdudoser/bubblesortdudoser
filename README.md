@@ -5,8 +5,7 @@
 <a href = 'https://vk.com/bogomoloviv'> <img width = '48px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/vk-icon.png"/></a> 
 <a href = 'https://mail.google.com/mail/?view=cm&source=mailto&to=qhomop@gmail.com'> <img width = '48px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/gmail-icon.png"/></a> 
 
-[Resume of average python user:](https://docs.google.com/document/d/1hvXMOy-faORywFbC-LexXfW8WvGdirFfstURlDiD2BU/edit#heading=h.qetebnx38gvk)
-Average python user: →→
+[Resume of average python enjoyer: →](https://docs.google.com/document/d/1hvXMOy-faORywFbC-LexXfW8WvGdirFfstURlDiD2BU/edit#heading=h.qetebnx38gvk)
 <img width = '256px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/Chad.png"/>
 <br/>
 
