@@ -5,5 +5,5 @@
 <a href = 'https://www.instagram.com/donqhomo/'> <img width = '32px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/instagram.png"/></a> 
 <br/>
 [Resume of average python enjoyer: →](https://docs.google.com/document/d/1hvXMOy-faORywFbC-LexXfW8WvGdirFfstURlDiD2BU/edit#heading=h.qetebnx38gvk)
-<img width = '256px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/Chad.png">
+<img width = '180px' align= 'center' src="https://github.com/bubblesortdudoser/bubblesortdudoser/blob/main/img/Chad.png">
 <br/>
