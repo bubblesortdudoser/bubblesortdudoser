@@ -5,7 +5,7 @@
 <br/>
 #### [```📄 My resume```](https://docs.google.com/document/d/1hvXMOy-faORywFbC-LexXfW8WvGdirFfstURlDiD2BU/edit#heading=h.qetebnx38gvk)
 
-#### 🛠 Technology stack
+<!-- #### 🛠 Technology stack
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat"/>
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat" />
@@ -17,4 +17,4 @@
 <img alt="Sqlite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat"/>
- </p>
+ </p> -->
